@@ -1,0 +1,10 @@
+id: EPD037A02
+category: displays
+size: "3.7"
+panel: epd
+resolution: 480x720
+interface: [spi]
+driver: null
+touch: null
+outline: 58 x 85.64 x 0.9 mm
+active_area: null
