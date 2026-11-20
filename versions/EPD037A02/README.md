@@ -48,6 +48,7 @@
 | CAD 图纸 | [`T037A02.SLDASM`](./cad/T037A02.SLDASM) |
 | CAD 图纸 | [`T037A02.STEP`](./cad/T037A02.STEP) |
 | 转接板资料 | [`3.7寸E6墨水屏底板原理图.pdf`](./adapter/3.7%E5%AF%B8E6%E5%A2%A8%E6%B0%B4%E5%B1%8F%E5%BA%95%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE.pdf) |
+| 转接板资料 | [`3.7寸墨水屏模组_适配树莓派.pdf`](./adapter/3.7%E5%AF%B8%E5%A2%A8%E6%B0%B4%E5%B1%8F%E6%A8%A1%E7%BB%84_%E9%80%82%E9%85%8D%E6%A0%91%E8%8E%93%E6%B4%BE.pdf) |
 
 ## 仓库结构
 
